@@ -23,7 +23,7 @@ Certifique-se de consultar o repositório oficial para detalhes completos sobre 
 - Cópia automática do arquivo selecionado para a Área de Trabalho.
 - Ajuste automático de permissões para permitir execução via interface gráfica.
 
-A aplicação executa um comando para garantir que o arquivo .desktop copiado tenha permissão de execução (chmod +x).
+A aplicação executa um comando para garantir que o arquivo .desktop copiado tenha permissão de execução via gio (GNOME Imput/Output).
 Isso é necessário no Ubuntu para evitar erros ao tentar abrir o atalho pela interface gráfica.
 
 Observação:
