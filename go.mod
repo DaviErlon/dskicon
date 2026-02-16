@@ -1,4 +1,4 @@
-module dskicon
+module github.com/DaviErlon/dskicon
 
 go 1.25.6
 

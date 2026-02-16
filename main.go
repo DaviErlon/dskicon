@@ -1,10 +1,11 @@
 package main
 
 import (
-	"dskicon/ui"
-	"dskicon/util"
 	"fmt"
 
+	"github.com/DaviErlon/dskicon/ui"
+	"github.com/DaviErlon/dskicon/util"
+	
 	"github.com/manifoldco/promptui"
 )
 

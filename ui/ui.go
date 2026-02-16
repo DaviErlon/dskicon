@@ -1,8 +1,8 @@
 package ui
 
 import (
-	"dskicon/ui/menu"
-	"dskicon/util"
+	"github.com/DaviErlon/dskicon/ui/menu"
+	"github.com/DaviErlon/dskicon/util"
 )
 
 func Run(app *util.AppConfig) error {

@@ -1,7 +1,7 @@
 package menu
 
 import (
-	"dskicon/util"
+	"github.com/DaviErlon/dskicon/util"
 
 	"github.com/manifoldco/promptui"
 )
